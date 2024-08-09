@@ -41,4 +41,10 @@ const books = [
         description: "The Canterville Ghost is a humorous short story by Oscar Wilde. It was the first of Wilde's stories to be published, appearing in two parts in The Court and Society Review, 23 February and 2 March 1887.[1] The story is about an American family who moved to a castle haunted by the ghost of a dead English nobleman, who killed his wife and was then walled in and starved to death by his wife's brothers.",
         imgSrc: "https://m.media-amazon.com/images/I/71HQAU4QMIL._AC_UF350,350_QL50_.jpg"
     },
+    {
+        title: "Sapiens: A Brief History of Humankind",
+        author: "Yuval Noah Harari",
+        description: "Harari's work places human history within a framework, with the natural sciences setting limits for human activity and social sciences shaping what happens within those bounds. The academic discipline of history is the account of cultural change.",
+        imgSrc: "https://m.media-amazon.com/images/I/713jIoMO3UL._AC_UF1000,1000_QL80_.jpg"
+    },
 ];
